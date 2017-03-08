@@ -4,5 +4,7 @@ public static void main(String[] args){
   String sex;
   int age
     gshgsshhshs
+    
+    fudtdtydjysy
 }
 }
